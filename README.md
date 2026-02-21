@@ -5,9 +5,6 @@
 - 💬 Ask me about **C#,Unity**
 
 - 📫 How to reach me **felipedomingos.sun@gmail.com**
-  
-![Felipe-dmgs's Stats](https://github-readme-stats.vercel.app/api?username=Felipe-dmgs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Felipe-dmgs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-dmgs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-felipe-dias-domingos-aba43b327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-felipe-dias-domingos-aba43b327/" height="30" width="40" /></a>
