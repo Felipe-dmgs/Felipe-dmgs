@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anderson Felipe</h1>
+<h1 align="center">Hi , I'm Anderson Felipe</h1>
 
 -  I’m currently learning **C# and .Net core**
 
