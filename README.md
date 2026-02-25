@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Anderson Felipe</h1>
 
--  I’m currently learning **C# and .Net core**
+-  I’m currently learning **.Net Core and React**
 
--  Ask me about **C#,Python**
+-  Ask me about **C#, Python, SQL, Javascript, React, .Net**
 
 - How to reach me **felipedomingos.sun@gmail.com**
 <h3 align="left">Connect with me:</h3>
