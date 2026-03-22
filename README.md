@@ -7,7 +7,7 @@
 - How to reach me **felipedomingos.sun@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.linkedin.com/in/anderson-felipe-domingos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-felipe-dias-domingos-aba43b327/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anderson-felipe-domingos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anderson-felipe-dias-domingos-aba43b327/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/felipedmgs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FelipeDmgs" height="30" width="40" /></a>
 </p>
 
